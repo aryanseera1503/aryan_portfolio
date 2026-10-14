@@ -1,0 +1,215 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 3579 >>
+stream
+BT
+/F2 22 Tf
+0.12 0.45 0.95 rg
+50 780 Td
+(ARYAN) Tj
+ET
+BT
+/F1 11 Tf
+0.3 0.3 0.35 rg
+50 762 Td
+(1st-Year B.Tech CSE (AI & ML) Student | Aspiring Software Developer) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.2 0.25 rg
+50 746 Td
+(Phone: +91 8233903085   |   Email: paneerlababdar04@gmail.com   |   Portfolio: Aryan.dev) Tj
+ET
+0.8 0.85 0.95 RG
+1 w
+50 735 m 545 735 l S
+BT
+/F2 12 Tf
+0.12 0.45 0.95 rg
+50 715 Td
+(EDUCATION) Tj
+ET
+BT
+/F2 10 Tf
+0.1 0.1 0.15 rg
+50 698 Td
+(Bachelor of Technology - Computer Science & Engineering (AI & ML)) Tj
+ET
+BT
+/F1 9 Tf
+0.4 0.4 0.45 rg
+50 686 Td
+(1st Year Undergraduate  |  Expected Graduation: 2030) Tj
+ET
+BT
+/F2 10 Tf
+0.1 0.1 0.15 rg
+50 668 Td
+(Higher Secondary Certificate (Grade 12)) Tj
+ET
+BT
+/F1 9 Tf
+0.4 0.4 0.45 rg
+50 656 Td
+(Academic Score: 86%  |  Science & Mathematics Focus) Tj
+ET
+0.85 0.85 0.9 RG
+0.5 w
+50 644 m 545 644 l S
+BT
+/F2 12 Tf
+0.12 0.45 0.95 rg
+50 626 Td
+(TECHNICAL SKILLS) Tj
+ET
+BT
+/F1 9.5 Tf
+0.15 0.15 0.2 rg
+50 609 Td
+(- Programming Languages: Python, C++) Tj
+ET
+BT
+/F1 9.5 Tf
+0.15 0.15 0.2 rg
+50 594 Td
+(- Artificial Intelligence & ML: Basic ML (scikit-learn), Data Preprocessing, Regression & Classification) Tj
+ET
+BT
+/F1 9.5 Tf
+0.15 0.15 0.2 rg
+50 579 Td
+(- Web Development: HTML5, CSS3 (Flexbox/Grid, Responsive Design), Modern JavaScript) Tj
+ET
+BT
+/F1 9.5 Tf
+0.15 0.15 0.2 rg
+50 564 Td
+(- Developer Tools & VCS: Git, GitHub, VS Code, Linux/Bash Basics) Tj
+ET
+BT
+/F1 9.5 Tf
+0.15 0.15 0.2 rg
+50 549 Td
+(- Core Competencies: Problem Solving, Algorithmic Thinking, Data Structures, OOP Fundamentals) Tj
+ET
+0.85 0.85 0.9 RG
+0.5 w
+50 537 m 545 537 l S
+BT
+/F2 12 Tf
+0.12 0.45 0.95 rg
+50 519 Td
+(PROJECTS) Tj
+ET
+BT
+/F2 10 Tf
+0.1 0.1 0.15 rg
+50 502 Td
+(Housing Price Predictor  |  Python, Scikit-learn, Pandas) Tj
+ET
+BT
+/F1 9 Tf
+0.3 0.3 0.35 rg
+50 490 Td
+(- Built a predictive model using Scikit-Learn to estimate real estate prices from multi-variable data.) Tj
+ET
+BT
+/F1 9 Tf
+0.3 0.3 0.35 rg
+50 478 Td
+(- Applied data cleaning, feature scaling, cross-validation, and error evaluation metrics (RMSE, R2).) Tj
+ET
+BT
+/F2 10 Tf
+0.1 0.1 0.15 rg
+50 458 Td
+(Student Record Management System  |  C++, OOP, File I/O) Tj
+ET
+BT
+/F1 9 Tf
+0.3 0.3 0.35 rg
+50 446 Td
+(- Developed an interactive command-line application in C++ to manage, search, and store academic records.) Tj
+ET
+BT
+/F1 9 Tf
+0.3 0.3 0.35 rg
+50 434 Td
+(- Leveraged Object-Oriented principles, persistent file storage, and robust error handling.) Tj
+ET
+BT
+/F2 10 Tf
+0.1 0.1 0.15 rg
+50 414 Td
+(Modern Personal Developer Portfolio  |  HTML5, CSS3, JavaScript) Tj
+ET
+BT
+/F1 9 Tf
+0.3 0.3 0.35 rg
+50 402 Td
+(- Designed and engineered a responsive, high-performance dark-themed developer portfolio.) Tj
+ET
+BT
+/F1 9 Tf
+0.3 0.3 0.35 rg
+50 390 Td
+(- Implemented glassmorphism aesthetics, fluid layout, interactive navigation, and instant resume download.) Tj
+ET
+0.85 0.85 0.9 RG
+0.5 w
+50 378 m 545 378 l S
+BT
+/F2 12 Tf
+0.12 0.45 0.95 rg
+50 360 Td
+(HOBBIES & INTERESTS) Tj
+ET
+BT
+/F1 9.5 Tf
+0.15 0.15 0.2 rg
+50 342 Td
+(- Badminton: Active badminton player, promoting stamina, tactical agility, and quick reflexes.) Tj
+ET
+BT
+/F1 9.5 Tf
+0.15 0.15 0.2 rg
+50 326 Td
+(- Video Games: Passionate gamer; fosters strategic thinking, fast-paced decision making, and team play.) Tj
+ET
+BT
+/F1 9.5 Tf
+0.15 0.15 0.2 rg
+50 310 Td
+(- AI & Technology: Continuously learning new advancements in machine learning and software development.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000010 00000 n 
+0000000062 00000 n 
+0000000122 00000 n 
+0000000267 00000 n 
+0000003904 00000 n 
+0000003977 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4055
+%%EOF
